@@ -1,0 +1,7 @@
+name: E-Commerce
+dependencies:
+  - python==3.11.3
+  - pip:
+      - django==4.2.1
+      - djangorestframework==3.14.0
+      - django-rest-swagger==2.2.0
